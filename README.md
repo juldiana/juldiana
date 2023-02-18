@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 <br><br>
 ### My github stats
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=juldiana)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juldiana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
