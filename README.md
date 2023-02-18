@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 
 ### About me
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=juldiana.visitor-badge)
 
 - 🔭 I am passionate about cs and I'm very motivated to learn
 - 🌱 I’m currently learning C++
@@ -17,13 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...-->
 - ⚡ Fun fact: I like animals
 
-### Connect with me 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=juldiana.visitor-badge)
-<!--https://github.com/alexandresanlim/Badges4-README.md-Profile.git-->
+<!--### Connect with me 
+https://github.com/alexandresanlim/Badges4-README.md-Profile.git
 <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img align="left" alt="stack_overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-
-<br><br>
+-->
+<br>
 ### Interest
 <img align="left" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img align="left" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
