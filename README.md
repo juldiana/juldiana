@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like animals
 
 ### Connect with me
+<!--https://github.com/alexandresanlim/Badges4-README.md-Profile.git-->
 <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img align="left" alt="stack_overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 
