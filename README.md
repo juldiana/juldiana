@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 ### About me
-- 🔭 I’m currently student at CS
+- 🔭 I am passionate about cs and I'm very motivated to learn
 - 🌱 I’m currently learning C++
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
