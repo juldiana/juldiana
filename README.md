@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 <img align="left" alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <img align="left" alt="rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"/>
 
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=juldiana)](https://github.com/anuraghazra/github-readme-stats)
